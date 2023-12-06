@@ -1,5 +1,5 @@
 ### Hi there! I'm Rohit Mall 👋
-
+I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiasit!
 <!--
 **rohitmll/rohitmll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
