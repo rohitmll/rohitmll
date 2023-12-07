@@ -1,4 +1,4 @@
-### Hi there! I'm Rohit Mall <img src= "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="25" height="25" />
+### Hi there! I'm Rohit Mall  <img src= "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30" height="30" />
 I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiasit!
 <!--
 **rohitmll/rohitmll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
