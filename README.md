@@ -1,4 +1,4 @@
-### Hi there! I'm Rohit Mall 👋 ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0OlZa5UCWFr-D9QN19qGmBiOFsNkcDu9lA&usqp=CAU))
+### Hi there! I'm Rohit Mall 👋 ![Alt Text](https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif)
 I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiasit!
 <!--
 **rohitmll/rohitmll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
