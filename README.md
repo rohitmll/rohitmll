@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages and Tools:
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.javascripttutorial.net%2Fwp-content%2Fuploads%2F2021%2F04%2FJavaScript-Tutorial.svg&tbnid=hU9s2YTIGmF2PM&vet=12ahUKEwi6nsPk2_-CAxVncWwGHdCxAQ8QMygAegQIARAs..i&imgrefurl=https%3A%2F%2Fwww.javascripttutorial.net%2F&docid=OPjezLJLbOw5kM&w=800&h=800&itg=1&q=js&ved=2ahUKEwi6nsPk2_-CAxVncWwGHdCxAQ8QMygAegQIARAs" width="25" >
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FJavaScript-logo.png&tbnid=hDOuE3Uh0EiOSM&vet=12ahUKEwiR6-bZ3P-CAxVqSWwGHWpMDaoQMygAegQIARBt..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&docid=7i4MEsqHBE4t9M&w=1052&h=1052&q=js%20logo%20png&ved=2ahUKEwiR6-bZ3P-CAxVqSWwGHWpMDaoQMygAegQIARBt" width="25" >
