@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Languages and Tools:
+<!-- ## Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width='30' >
-<img src="https://www.essitco.com/assets/images/react_b.png" width='30' >
+<img src="https://www.essitco.com/assets/images/react_b.png" width='30' > -->
