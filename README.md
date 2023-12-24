@@ -1,5 +1,7 @@
 ### Hi there! I'm Rohit Mall  <img src= "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30" height="30" />
-I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiast!
+I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiast!. Proficient in JAVASCRIPT, REACTJS, NODEJS, MySQL and MongoDB.
+Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. 
+Looking to start the career as an entry-level role with a reputed firm driven by technology.
 <!--
 **rohitmll/rohitmll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
