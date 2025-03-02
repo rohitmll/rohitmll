@@ -1,5 +1,5 @@
 ### Hi there! I'm Rohit Mall  <img src= "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30" height="30" />
-I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiast!. Proficient in JAVASCRIPT,TYPESCRIPT, REACTJS,REACT NATIVE, NODEJS, MySQL and MongoDB.
+I'm a JavaScript programmer, a full stack MERN developer, and a tech enthusiast!. Proficient in JAVASCRIPT, TYPESCRIPT, REACT, REACT NATIVE, NODEJS, MySQL and MongoDB.
 Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. 
 
 <!--
